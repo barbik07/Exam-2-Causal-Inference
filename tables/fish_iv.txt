@@ -1,0 +1,14 @@
+	(1)	(2)
+VARIABLES	lgp	lgp
+		
+wave2	0.107***	
+	(0.0204)	
+speed3		0.0177***
+		(0.00610)
+Constant	-0.793***	-0.617***
+	(0.110)	(0.134)
+		
+Observations	97	97
+R-squared	0.225	0.082
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
